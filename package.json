@@ -1,31 +1,20 @@
 {
-  "name": "vue-a11y-tooltip",
+  "name": "@dangvanthanh/vue-tooltip",
   "version": "0.0.1",
-  "description": "Scaffold out a node module for vue component",
-  "main": "src/vue-a11y-tooltip.js",
-  "unpkg": "dist/vue-a11y-tooltip.min.js",
+  "description": "Tooltip using Vue.js",
+  "main": "src/vue-tooltip.js",
+  "unpkg": "dist/vue-tooltip.min.js",
   "scripts": {
     "build": "rollup -c rollup.config.prod.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dangvanthanh/vue-a11y-tooltip.git"
+    "url": "git@github.com:dangvanthanh/vue-tooltip.git"
   },
   "author": "Dang Van Thanh <chieuhue@gmail.com> (dangthanh.org)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dangvanthanh/vue-a11y-tooltip/issues"
+    "url": "https://github.com/dangvanthanh/vue-tooltip.git/issues"
   },
-  "homepage": "https://github.com/dangvanthanh/vue-a11y-tooltip#readme",
-  "devDependencies": {
-    "rollup": "^0.57.1",
-    "rollup-plugin-alias": "^1.4.0",
-    "rollup-plugin-buble": "^0.19.2",
-    "rollup-plugin-commonjs": "^9.1.0",
-    "rollup-plugin-node-resolve": "^3.3.0",
-    "rollup-plugin-uglify": "^3.0.0",
-    "rollup-plugin-vue": "^3.0.0",
-    "uglify-es": "^3.3.10",
-    "vue-template-compiler": "^2.5.16"
-  }
+  "homepage": "https://github.com/dangvanthanh/vue-tooltip.git#readme"
 }

@@ -1,3 +1,9 @@
-# vue-a11y-tooltip
+# Vue Tooltip
 
-> Tooltip Accessibility Using Vue.js
+> Tooltip using Vue.js
+
+## Install
+
+```
+$ npm install @dangvanthanh/vue-tooltip --save
+```
